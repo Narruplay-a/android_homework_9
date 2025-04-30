@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Fragments</string>
+    <string name="ma_button">Фрагмент А</string>
+    <string name="ma_button2">Открыть активити B</string>
+    <string name="fa_button">Фрагмент АА</string>
+    <string name="fba_button">Открыть фрагмент BB</string>
+    <string name="fbb_button">Послать цвет</string>
+    <string name="faa_button">Фрагмент AB</string>
 </resources>
